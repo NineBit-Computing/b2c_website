@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chairs &#8211; Website</title>
+	<atom:link href="/index.php/product-category/chair/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Apr 2024 09:32:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>SOTENAS</title>
+		<link>/index.php/product/sotenas/</link>
+					<comments>/index.php/product/sotenas/#respond</comments>
+		
+		<dc:creator><![CDATA[bharat123]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 09:31:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=208</guid>
+
+					<description><![CDATA[A youthful and festive armchair. This the description of PUCK when it was launched in the 1969 catalogue. We’ve named it SOTENÄS in the Nytillverkad collection, but the design is still by Gillis Lundgren.]]></description>
+										<content:encoded><![CDATA[<p>A youthful and festive armchair. This the description of PUCK when it was launched in the 1969 catalogue. We’ve named it SOTENÄS in the Nytillverkad collection, but the design is still by Gillis Lundgren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/sotenas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>POANG X</title>
+		<link>/index.php/product/poang-x/</link>
+					<comments>/index.php/product/poang-x/#respond</comments>
+		
+		<dc:creator><![CDATA[bharat123]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 09:30:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=207</guid>
+
+					<description><![CDATA[POÄNG armchair has stylish curved lines in bentwood, providing nice support for the neck and comfy resilience. It’s been in our range for several decades and is still just as popular. Want to try it too?]]></description>
+										<content:encoded><![CDATA[<p>POÄNG armchair has stylish curved lines in bentwood, providing nice support for the neck and comfy resilience. It’s been in our range for several decades and is still just as popular. Want to try it too?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/poang-x/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>POANG</title>
+		<link>/index.php/product/poang/</link>
+					<comments>/index.php/product/poang/#respond</comments>
+		
+		<dc:creator><![CDATA[bharat123]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 09:25:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=200</guid>
+
+					<description><![CDATA[POÄNG armchair has stylish curved lines in bentwood, providing nice support for the neck and comfy resilience. It’s been in our range for several decades and is still just as popular. Want to try it too?]]></description>
+										<content:encoded><![CDATA[<p>The layer-glued bent wood frame gives the armchair a comfortable resilience, making it perfect to relax in.<br />The high back provides good support for your neck.<br />A variety of seat cushion designs makes it easy to change the look of your POÄNG chair and your living room.<br />To sit even more comfortably and relaxed, you can use the armchair together with a POÄNG ottoman.<br />10-year limited warranty. Read about the terms in the limited warranty brochure.<br /><strong>Designer</strong>Noboru Nakamura</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/poang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
